@@ -4,7 +4,7 @@ rgs = {
     location = "EastUS"
   }
   rg1 = {
-    name     = "rg-1"
+    name     = "rg-2"
     location = "EastUS"
   }
 }
