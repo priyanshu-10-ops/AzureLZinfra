@@ -15,6 +15,10 @@ vnets = {
         name             = "backend-subnet"
         address_prefixes = ["10.0.2.0/24"]
       }
+      subnet3 = {
+        name             = "bastion-subnet"
+        address_prefixes = ["10.0.3.0/24"]
+      }
     }
 
     tags = {
